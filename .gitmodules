@@ -1,0 +1,18 @@
+[submodule "CNP_Account"]
+	path = CNP_Account
+	url = https://github.com/hyrtyp/CNP_Account
+[submodule "CNP_Base"]
+	path = CNP_Base
+	url = https://github.com/hyrtyp/CNP_Base
+[submodule "CNP_Dynamic"]
+	path = CNP_Dynamic
+	url = https://github.com/hyrtyp/CNP_Dynamic
+[submodule "CNP_Classroom"]
+	path = CNP_Classroom
+	url = https://github.com/hyrtyp/CNP_Classroom
+[submodule "CNP_School"]
+	path = CNP_School
+	url = https://github.com/hyrtyp/CNP_School
+[submodule "app"]
+	path = app
+	url = https://github.com/hyrtyp/app
